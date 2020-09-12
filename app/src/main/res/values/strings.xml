@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MobiSoft</string>
+    <string name="loading">Loading</string>
+    <string name="please_wait">Please Waite…</string>
+    <string name="on_failed">Network Error</string>
+    <string name="response_code_500">There is problem in server</string>
+    <string name="response_code_400">Request Is Wrong</string>
+    <string name="response_code_401">Not Access</string>
+    <string name="response_code_404">Not Found</string>
+    <string name="no_network">please turn on your network and try again</string>
+</resources>
